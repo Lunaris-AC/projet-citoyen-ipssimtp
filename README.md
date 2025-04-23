@@ -16,8 +16,8 @@ Ce projet académique explore l'impact de l'Intelligence Artificielle sur l'éga
 
 ### Étape 1 : Cloner le repository
 ```bash
-git clone https://github.com/votre-organisation/ia-inclusive.git
-cd ia-inclusive
+git clone https://github.com/Lunaris-AC/projet-citoyen-ipssimtp.git
+cd projet-citoyen-ipssimtp.git
 ```
 
 ### Étape 2 : Installer les dépendances
